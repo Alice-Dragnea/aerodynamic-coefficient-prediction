@@ -1,0 +1,10 @@
+{
+  "aoa_min": -2.0,
+  "aoa_max": 10.0,
+  "CL_min": -0.5,
+  "CL_max": 3.0,
+  "CD_min": 0.001,
+  "CD_max": 0.06,
+  "reynolds_min": 500000,
+  "reynolds_max": 2000000
+}
