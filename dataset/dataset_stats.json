@@ -1,0 +1,26 @@
+{
+  "total_samples": 9284,
+  "unique_airfoils": 300,
+  "train_samples": 6489,
+  "val_samples": 1414,
+  "test_samples": 1381,
+  "aoa_range": [
+    -4.0,
+    16.0
+  ],
+  "reynolds_values": [
+    500000,
+    1000000,
+    2000000
+  ],
+  "input_dim": 402,
+  "output_dim": 2,
+  "CL_mean": 1.0136232981473503,
+  "CL_std": 0.9148412434142857,
+  "CD_mean": 0.008881473502800517,
+  "CD_std": 0.0046507190799978315,
+  "xfoil_ncrit": 9,
+  "n_resample_points": 200,
+  "convergence_rate": "17.7%",
+  "geom_input_dim": 207
+}
